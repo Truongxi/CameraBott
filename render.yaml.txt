@@ -1,0 +1,6 @@
+services:
+  - type: worker
+    name: camerabot
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python camera_bot.py"
