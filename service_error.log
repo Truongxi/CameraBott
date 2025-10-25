@@ -1,0 +1,1120 @@
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 5, in <module>
+    import telebot
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\telebot\__init__.py", line 18, in <module>
+    from telebot.storage import StatePickleStorage, StateMemoryStorage, StateStorageBase
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\telebot\storage\__init__.py", line 1, in <module>
+    from telebot.storage.memory_storage import StateMemoryStorage
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\site-packages\telebot\storage\memory_storage.py", line 1, in <module>
+    from telebot.storage.base_storage import StateStorageBase, StateDataContext
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1087, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1186, in get_data
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 149, in <module>
+    detect_human()
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 71, in detect_human
+    log("[\U0001f7e2] CameraBot \u0111ang ch\u1ea1y ng\u1ea7m... (b\u1ea1n có th\u1ec3 \u0111óng c\u1eeda s\u1ed5 này)")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f7e2' in position 23: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 153, in <module>
+    log(f"[\u274c L\u1ed7i]: {e}")
+  File "C:\CNTTK30\python\CameraBot\camera_bot.py", line 14, in log
+    print(text)
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 23: character maps to <undefined>
